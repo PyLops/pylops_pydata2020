@@ -90,3 +90,33 @@ def FirstDerivative_timing():
     # uncomment these
     # %timeit -n3 -r3 np.dot(D, x)
     # %timeit -n3 -r3 Dop._matvec(x)
+
+
+def FirstDerivative_memory():
+    """Memory footprint of Diagonal operator
+    """
+    from pympler import asizeof
+    from scipy.sparse import diags
+    nn = (10 ** np.arange(2, 4, 0.5)).astype(np.int)
+
+    mem_D = []
+    mem_Ds = []
+    mem_Dop = []
+    for n in nn:
+        D = np.diag(0.5 * np.ones(n - 1), k=1) - np.diag(0.5 * np.ones(n - 1),
+                                                         -1)
+        D[0, 0] = D[-1, -2] = -1
+        D[0, 1] = D[-1, -1] = 1
+        Ds = diags((0.5 * np.ones(n - 1), -0.5 * np.ones(n - 1)),
+                   offsets=(1, -1))
+        Dop = pylops.FirstDerivative(n, edge=True)
+        mem_D.append(asizeof.asizeof(D))
+        mem_Ds.append(asizeof.asizeof(Ds))
+        mem_Dop.append(asizeof.asizeof(Dop))
+
+    plt.figure(figsize=(12, 3))
+    plt.semilogy(nn, mem_D, '.-k', label='D')
+    plt.semilogy(nn, mem_Ds, '.-b', label='Ds')
+    plt.semilogy(nn, mem_Dop, '.-r', label='Dop')
+    plt.legend()
+    plt.title('Memory comparison')
