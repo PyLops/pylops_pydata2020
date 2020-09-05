@@ -21,7 +21,7 @@ directly in Colab).
 
 | Session   | Exercise (Github) | Exercise (Colab) |
 |-----------|------------------|------------------|
-| 1: Introduction | [Link](Intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/mrava87/pylops_notebooks/blob/master/official/timisoara_summerschool_2019/Visual_optimization.ipynb)  |
-| 2: Image Deblurring | [Link](ImageDeblurring.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/mrava87/pylops_notebooks/blob/master/official/timisoara_summerschool_2019/Linear_Operators.ipynb)  |
-| 3: Radon transforms | [Link](Radon.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/mrava87/pylops_notebooks/blob/master/official/timisoara_summerschool_2019/Solvers.ipynb)  |
-| 4: What's next? | [Link](Whatsnext.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/mrava87/pylops_notebooks/blob/master/official/timisoara_summerschool_2019/SeismicRedatuming.ipynb)  |
+| 1: Introduction | [Link](Intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Intro.ipynb)  |
+| 2: Image Deblurring | [Link](ImageDeblurring.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](X)  |
+| 3: Radon transforms | [Link](Radon.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](X)  |
+| 4: What's next? | [Link](Whatsnext.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](X)  |
