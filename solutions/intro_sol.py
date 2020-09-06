@@ -1,4 +1,4 @@
-# Solutions for PyData Global 2020 Tutorial
+# Solutions for Intro tutorial - PyData Global 2020 Tutorial
 
 class Diagonal(LinearOperator):
     """Short version of a Diagonal operator. See
