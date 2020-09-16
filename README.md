@@ -17,11 +17,11 @@ directly in Colab).
 - Ivan Vasconcelos (ivasconcelosUU), University of Utrecht
 
 
-## Notebooks (need to change links!!)
+## Notebooks
 
 | Session   | Exercise (Github) | Exercise (Colab) |
 |-----------|------------------|------------------|
 | 1: Introduction | [Link](Intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Intro.ipynb)  |
-| 2: Image Deblurring | [Link](ImageDeblurring.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](X)  |
-| 3: Radon transforms | [Link](Radon.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Radon.ipynb)  |
+| 2: Image Deblurring | [Link](Deblurring.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Deblurring.ipynb)  |
+| 3: Radon Transforms | [Link](Radon.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Radon.ipynb)  |
 | 4: What's next? | [Link](Whatsnext.ipynb) |   |
