@@ -28,7 +28,7 @@ directly in Colab).
 
 
 ## License
-The material in this notebook is open and can be modified and redistributed according to the chosen licences.
+The material in this repository is open and can be modified and redistributed according to the chosen licences.
 
 Text is licensed under [CC BY Creative Commons License](http://creativecommons.org/licenses/by/4.0/).
 
