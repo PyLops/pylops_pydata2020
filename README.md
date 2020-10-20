@@ -3,7 +3,7 @@
 Material for tutorial **Solving large-scale inverse problems in Python with PyLops**, to be taught
 at [PyData Global 2020](https://global.pydata.org) course.
 
-The material covered during the tutorial is composed of 3 jupyter notebooks. Partecipants can either use:
+The material covered during the tutorial is composed of 3 jupyter notebooks. Participants can either use:
 
 - local Python installation (follow these [instructions](https://pylops.readthedocs.io/en/latest/installation.html)
 to setup your environment)
@@ -13,8 +13,8 @@ directly in Colab).
 ## Instructors
 
 - Matteo Ravasi (mrava87), Equinor ASA
-- David Vargas (davofis), University of Utrecht
-- Ivan Vasconcelos (ivasconcelosUU), University of Utrecht
+- David Vargas (davofis), Utrecht University
+- Ivan Vasconcelos (ivasconcelosUU), Utrecht University
 
 
 ## Notebooks
