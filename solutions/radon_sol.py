@@ -3,11 +3,11 @@
 def radon_noise():
     """Create noise to add to projections
     """
-    sigman = 5e-1 # play with this...
-    n = np.random.normal(0., sigman, projection1.shape)
-    projection += n[projection.shape[0] // 2 - (nx - inner) // 2:
-    projection.shape[0] // 2 + (nx - inner) // 2]
-    projection1 += n
+    sigman = 5e-1  # play with this...
+    n = np.random.normal(0., sigman, projection.shape)
+    projection_n = projection + n
+    projection1_n = projection1 + \
+                    n[projection.shape[0] // 2 - (nx - inner) // 2: projection.shape[0] // 2 + (nx - inner) // 2].T
 
     # copy-paste here the inversion code(s)...
 
