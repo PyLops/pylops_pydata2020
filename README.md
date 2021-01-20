@@ -19,12 +19,12 @@ directly in Colab).
 
 ## Notebooks
 
-| Session   | Exercise (Github) | Exercise (Colab) | Solutions (Colab) |
-|-----------|------------------|------------------|------------------|
-| 1: Introduction | [Link](Intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Intro.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/solutions_colab/Intro.ipynb)  |
-| 2: Image Deblurring | [Link](Deblurring.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Deblurring.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/solutions_colab/Deblurring.ipynb)  |
-| 3: Radon Transforms | [Link](Radon.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Radon.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/solutions_colab/Radon.ipynb)  |
-| 4: What's next? | [Link](Whatsnext.ipynb) |   |
+| Session   | Exercise (Github) | Exercise (Colab) | Solutions (Colab) | Videos |
+|-----------|------------------|------------------|------------------|------------------|
+| 1: Introduction | [Link](Intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Intro.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/solutions_colab/Intro.ipynb)  | [Link](https://www.youtube.com/watch?v=1INffyzZ-O8&t=518s) |
+| 2: Image Deblurring | [Link](Deblurring.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Deblurring.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/solutions_colab/Deblurring.ipynb)  | [Link](https://www.youtube.com/watch?v=LQTJs-EJQIs&t=12s) |
+| 3: Radon Transforms | [Link](Radon.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/Radon.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/pylops_pydata2020/blob/master/solutions_colab/Radon.ipynb)  | [Link](https://www.youtube.com/watch?v=WekWA-3bg9U) |
+| 4: What's next? | [Link](Whatsnext.ipynb) |   | | [Link](https://www.youtube.com/watch?v=NwLo_yGF7EQ) |
 
 
 ## License
